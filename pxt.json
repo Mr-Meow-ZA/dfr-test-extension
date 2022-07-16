@@ -1,10 +1,11 @@
 {
-    "name": "dfr test extension",
+    "name": "encoder test 1",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-zoombit": "github:cytrontechnologies/pxt-zoombit#d9f9716977baea98986b216f690a8d0ce41eb6c8"
     },
     "files": [
         "main.blocks",
